@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Kotlin when modifying a collection while iterating over it.  The `bug.kt` file shows code that throws a `ConcurrentModificationException`.  The `bugSolution.kt` file demonstrates safe ways to modify collections during iteration.
